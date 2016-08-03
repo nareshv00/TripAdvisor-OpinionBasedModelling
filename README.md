@@ -1,4 +1,4 @@
-# TripAdvisor-OpinionBasedModelling
+# Natural Language Processing - TripAdvisor-OpinionBasedModelling
 
 EXECUTIVE SUMMARY
 
@@ -117,3 +117,12 @@ We have created a dynamic function to create word clouds based on the user’s i
 
 1.7 Word Cloud of Hotel Ajanta Customer reviews
 
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/17385542/62cf9306-59b1-11e6-8033-8e00291845a4.png)
+
+
+these are a few visualizations I have created , to explore more please make use of the code. I am providing the links to the data set in the references.
+
+References:
+1. http://odur.let.rug.nl/~vannoord/TextCat/textcat.pdf
+2. LDA Visual from CRAN.
+3.Dataset, http://kavita-ganesan.com/entity-ranking-data.
