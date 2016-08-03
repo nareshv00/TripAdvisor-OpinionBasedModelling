@@ -1,4 +1,4 @@
-# Natural Language Processing - TripAdvisor-OpinionBasedModelling
+# Natural Language Processing - TripAdvisor-Opinion Based  Modelling
 
 EXECUTIVE SUMMARY
 
