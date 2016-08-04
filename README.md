@@ -128,4 +128,4 @@ References:
 
 2. LDA Visual from CRAN.
 
-3.Dataset, http://kavita-ganesan.com/entity-ranking-data.
+3. Dataset, http://kavita-ganesan.com/entity-ranking-data.
