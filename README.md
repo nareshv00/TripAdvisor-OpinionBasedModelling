@@ -107,6 +107,8 @@ We can clearly see that distances between the topics 3 and rest is very large, a
 
 1.7 Latent Dirchelet Allocation of Topic Models Visulization.
 
+https://rawgit.com/nareshv00/TripAdvisor-OpinionBasedModelling/master/LDAVisualJson/index.html
+
 ![alt tag](https://cloud.githubusercontent.com/assets/19517513/17381279/26b1868a-5999-11e6-9e54-697c1b2a4cc3.png)
 
 ** You can download the same from LDAVisualJson folder and follow the instructions to run it.
